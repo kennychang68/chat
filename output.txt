@@ -1,0 +1,8 @@
+Allen:hello
+Allen:你好
+Tom:hello
+Tom:一樣是雞肉飯嗎?
+Allen:是的
+Allen:飲料一樣是紅茶
+Tom:半糖去冰對嗎?
+Allen:對,謝謝, 我十分鐘後去拿
